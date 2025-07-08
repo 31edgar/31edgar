@@ -7,7 +7,7 @@
 
 
 - I'm from Spain
-- I'm a Computer Engineering student (1st year)
+- I'm a Computer Engineering student (2st year)
 - I study at [Universitat de Barcelona](https://web.ub.edu/inici)
 
 ## Interests![gwo-gzlwong (1)](https://github.com/user-attachments/assets/84865825-66a8-44ba-868e-8201991e9666)
